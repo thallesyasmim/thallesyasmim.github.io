@@ -1,5 +1,5 @@
 
-<h1 align="center">✏ Desenvolvido para um trabalho da matéria de Biologia.<h1>
+<h1 align="center">✏ Developed for work on the subject of Biology<h1>
 
 <h2>💻 Tecnologias utilizadas:<h2>
 
@@ -7,13 +7,13 @@
   - CSS3
   - JavaScript
   
-<h2>🔥 Um pouco sobre a aplicação:</h2>
+<h2>🔥 A little about the application:</h2>
 
 <img alt="Layout" src="./.github/layout-one.png" />
 <img alt="Layout" src="./.github/layout-two.png" />
 <img alt="Layout" src="./.github/layout-three.png" />
 
-<h2>📱 Minhas redes sociais:</h2>
+<h2>📱 My social networks:</h2>
 
 <p align="center">
    <a href="https://github.com/thallesyasmim" target="_blank" >
@@ -32,4 +32,4 @@
  </p>
 
 
-<h4>Feito com ❤ por Thalles Gabriel 🔥 
+<h4>Made with ❤ by Thalles Gabriel 🔥 
