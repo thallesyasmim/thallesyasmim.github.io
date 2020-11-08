@@ -1,7 +1,7 @@
 
 <h1 align="center">✏ Developed for work on the subject of Biology<h1>
 
-<h2>💻 Tecnologias utilizadas:<h2>
+<h2>💻 Technologies used:<h2>
 
   - HTML5
   - CSS3
