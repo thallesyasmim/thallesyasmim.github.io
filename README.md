@@ -9,9 +9,9 @@
   
 <h2>🔥 Um pouco sobre a aplicação:</h2>
 
-<img alt="Layout" src="./github/layout-one.png" />
-<img alt="Layout" src="./github/layout-two.png" />
-<img alt="Layout" src="./github/layout-three.png" />
+<img alt="Layout" src="./.github/layout-one.png" />
+<img alt="Layout" src="./.github/layout-two.png" />
+<img alt="Layout" src="./.github/layout-three.png" />
 
 <h2>📱 Minhas redes sociais:</h2>
 
